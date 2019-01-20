@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Komunikator</string>
+    <string name="send">Wyślij wiadomość</string>
 </resources>
